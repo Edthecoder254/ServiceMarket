@@ -25,6 +25,8 @@
             android:name=".HireActivity"
             android:label="@string/title_activity_hire" />
         <activity android:name=".WorkActivity" />
+        <activity android:name=".DatabaseSave" />
+        <activity android:name=".AddServiceActivity"></activity>
     </application>
 
 </manifest>

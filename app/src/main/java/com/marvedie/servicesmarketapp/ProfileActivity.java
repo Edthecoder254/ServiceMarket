@@ -67,7 +67,7 @@ public class ProfileActivity extends AppCompatActivity implements View.OnClickLi
                 break;
             case R.id.btnWork:
                 finish();
-                startActivity(new Intent(this, WorkActivity.class));
+                startActivity(new Intent(this, DatabaseSave.class));
         }
     }
 }
